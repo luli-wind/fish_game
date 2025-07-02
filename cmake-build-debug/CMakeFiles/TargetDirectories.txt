@@ -1,0 +1,9 @@
+E:/OOP/pri_fish/fish/cmake-build-debug/CMakeFiles/fish.dir
+E:/OOP/pri_fish/fish/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/OOP/pri_fish/fish/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/OOP/pri_fish/fish/cmake-build-debug/CMakeFiles/list_install_components.dir
+E:/OOP/pri_fish/fish/cmake-build-debug/CMakeFiles/install.dir
+E:/OOP/pri_fish/fish/cmake-build-debug/CMakeFiles/install/local.dir
+E:/OOP/pri_fish/fish/cmake-build-debug/CMakeFiles/install/strip.dir
+E:/OOP/pri_fish/fish/cmake-build-debug/CMakeFiles/fish_autogen_timestamp_deps.dir
+E:/OOP/pri_fish/fish/cmake-build-debug/CMakeFiles/fish_autogen.dir
